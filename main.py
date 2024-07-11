@@ -121,6 +121,7 @@ customtkinter.set_default_color_theme("blue")
 #Frame
 app = customtkinter.CTk()
 app.geometry("620x480")
+app.iconbitmap("yt.ico")
 app.title("Youtube Downloader")
 
 #Fonts
