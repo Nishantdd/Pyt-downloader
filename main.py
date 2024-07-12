@@ -188,7 +188,6 @@ thumbnail = customtkinter.CTkLabel(app, text='')
 thumbnail.place(x=235,y=245)
 
 if __name__ == '__main__':
-    print("Integrating git on Linux")
     app.minsize(620,480)
     app.maxsize(620,480)
     app.attributes('-topmost',True)
