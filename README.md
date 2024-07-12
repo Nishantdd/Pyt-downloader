@@ -3,7 +3,11 @@
 Pyt-downloader is a powerful and easy-to-use tool for downloading videos from youtube. This application is designed to be simple and efficient, allowing users to quickly download files by providing a URL.
 
 ## 🖼 Preview
-<img width="600" src="https://github.com/Nishantdd/Pyt-downloader/blob/main/assets/preview.png" style="border-radius:10px">
+<div align="center">
+<br>
+![Pyt Preview](assets/preview.png)
+<br>
+</div>
 
 ## Installation
 #### Clone the repository
