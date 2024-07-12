@@ -5,7 +5,7 @@ Pyt-downloader is a powerful and easy-to-use tool for downloading videos from yo
 ## 🖼 Preview
 <div align="center">
 <br>
-![Pyt Preview](assets/preview.png)
+![Pyt Preview](https://github.com/Nishantdd/Pyt-downloader/blob/main/assets/preview.png)
 <br>
 </div>
 
